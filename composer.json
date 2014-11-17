@@ -1,5 +1,5 @@
 {
-    "name"        : "WCM/AstroFields/Options",
+    "name"        : "wecodemore/astrofields-options",
     "version"     : "0.1.0-alpha1",
     "description" : "Options Page & Settings Section Fields Extension for the AstroFields framework",
     "keywords"    : [ "wordpress", "forms", "fields" ],
