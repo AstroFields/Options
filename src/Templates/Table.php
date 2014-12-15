@@ -2,9 +2,9 @@
 
 namespace WCM\AstroFields\Options\Templates;
 
-use WCM\AstroFields\Core\Templates\TemplateInterface;
+use WCM\AstroFields\Core;
 
-class Table implements TemplateInterface
+class Table implements Core\Templates\TemplateInterface
 {
 	/** @type \SplPriorityQueue */
 	private $entities;
